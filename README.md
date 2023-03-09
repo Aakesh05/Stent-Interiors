@@ -1,4 +1,4 @@
-# Stent Interiors
+# Stent Interiors (Use MVC framework)
  
 My good friend Cameron came to me interest of me making him a website for his Design business “Stent Interiors”. He wanted to be able to have a Home page, About Page and a Book a meeting page.
 
